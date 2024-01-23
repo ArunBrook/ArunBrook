@@ -1,14 +1,22 @@
-- 👋 Hi, I’m @ArunBrook
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Angular 
-- 💞️ I’m looking to collaborate on django projects 
-- 📫 You can Contact me through +916282381337
-- Python      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-Js          1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-Django      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Html        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+# Hi there, I'm Arun Kumar EA 👋
 
-<!---
-ArunBrook/ArunBrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! Here's a snapshot of my recent coding activities:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunBrook&layout=compact)
+
+
+## 📫 Let's Connect
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([link-to-linkedin](https://www.linkedin.com/in/arun-ea/))
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](link-to-twitter)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6282381337)
+
+
+## 💻 Recent Coding Activity
+
+- Python: 1 hr 47 mins   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- Js: 1 hr 22 mins       ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- Django: 24 mins        ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+- Html: 21 mins          ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArunBrook&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
